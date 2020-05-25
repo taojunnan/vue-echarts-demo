@@ -26,7 +26,7 @@ npm run build --report
 
 ### 播放
 点击播放按钮，遍历图中每个3D坐标点并高亮成红色，只有在遍历到该点的时候高亮成玫红色，其余点保持原来的颜色。设置好了播放动画的频率，即帧幅，动画每跳一个点的间隔时间可设置成一秒
-![](https://gitee.com/taojunnan/blog-resources/raw/master/static/20200525234240.png)
+![](https://gitee.com/taojunnan/blog-resources/raw/master/static/20200525234757.png)
 
 ## 暂停
 点击暂停按钮，动画效果暂停。再点击播放按钮，动画效果从该点开始继续往下遍历
