@@ -1,6 +1,7 @@
 # vue-echarts-demo
 
 > vue echarts animation demo
+> 用Echarts实现的动画例子
 
 ## Build Setup
 
