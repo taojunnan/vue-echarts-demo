@@ -3,6 +3,10 @@
 > vue echarts animation demo  
 > 用Echarts实现的动画例子
 
+## 在线访问
+
+[online](https://www.taojunnan.com/vue-echarts-demo-online/)
+
 ## 构建步骤
 
 ``` bash
