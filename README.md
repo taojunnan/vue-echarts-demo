@@ -22,14 +22,15 @@ npm run build --report
 ## 功能
 ### 随机点
 点击刷新散点图按钮，重新生成一张新的画布，随机生成任意个3D坐标点
-![](https://gitee.com/taojunnan/blog-resources/raw/master/static/20200525234104.jpg)
+![](https://gitee.com/taojunnan/blog-resources/raw/master/static/20200525235401.gif)
 
 ### 播放
 点击播放按钮，遍历图中每个3D坐标点并高亮成红色，只有在遍历到该点的时候高亮成玫红色，其余点保持原来的颜色。设置好了播放动画的频率，即帧幅，动画每跳一个点的间隔时间可设置成一秒
-![](https://gitee.com/taojunnan/blog-resources/raw/master/static/20200525234757.png)
+![](https://gitee.com/taojunnan/blog-resources/raw/master/static/20200525235428.gif)
 
 ## 暂停
 点击暂停按钮，动画效果暂停。再点击播放按钮，动画效果从该点开始继续往下遍历
+![](https://gitee.com/taojunnan/blog-resources/raw/master/static/20200525235439.gif)
 
 # License
 **MIT**
